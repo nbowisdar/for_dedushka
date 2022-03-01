@@ -1,7 +1,7 @@
 import requests
 
 TOKEN = '5108400714:AAHp6JO9AWKpGnAQeAMMrwuExweKtnm0K9Y'
-USER = '286365412'
+USER = '' # Your telegram id. You can get it with halp second file. 
 
 def send_info_error(info=None,):
     try:
